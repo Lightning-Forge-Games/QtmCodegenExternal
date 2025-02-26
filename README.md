@@ -1,4 +1,4 @@
-## Quantum Codegen External
+## Quantum Codegen Standalone
 A standalone console app wrapper around Photon Quantum Unity codegen. Allows triggering codegen outside of the Unity editor, which allows significant workflow improvements for IDEs and VCS.
 
 ### IDEs
